@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm a DevOps & Backend-focused Software Engineer</h1>
-<h3 align="center">Turning ideas into working systems — one pipeline, one API at a time</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+%7C+Backend+Engineering;Building+CI%2FCD+pipelines+that+just+work;FastAPI+%2B+Docker+%2B+Terraform+%2B+AWS;Currently%3A+Full-Stack+SWE+Intern" alt="Typing SVG" />
