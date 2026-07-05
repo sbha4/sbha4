@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a DevOps & Backend-focused Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm a DevOps Focused Software Engineering Undergrad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergrad+%40+SLIIT;Backend+Engineering+%7C+Cloud+%7C+DevOps;Node.js+%2B+TypeScript+%2B+Docker+%2B+Azure;Currently%3A+Full+Stack+Intern" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 ### 🧑‍💻 About Me
 
-A techie into **DevOps, cloud technologies, backend engineering, and building practical software**.
+I try to automate boring stuff.
 
 Currently gaining industry experience through a **full-stack software engineering internship**, where I work across:
-- 📋 Business analysis
+- 📋 Business analysis & requirements documentation
 - ⚙️ Azure DevOps pipelines & workflows
 - 🧪 Software testing (Angular application bug finding & QA)
 
@@ -23,9 +23,9 @@ This GitHub showcases my hackathon projects, backend APIs, DevOps pipelines, and
 
 | Project | Description |
 |---|---|
-| 🔧 **[DevOps Knowledge Base](https://github.com/sbha4/devops-knowledge-base)** |A deployment pipeline and containerization (Docker, CI/CD, Linux) developed as part of an ongoing IEEE DevOps Mentorship Program. |
+| 🔧 **[DevOps Knowledge Base](https://github.com/sbha4/devops-knowledge-base)** | A deployment pipeline and containerization (Docker, CI/CD, Linux) developed as part of an ongoing IEEE DevOps Mentorship Program. |
 | 💚 **[KindCents](https://github.com/sbha4/KindCents)** | A transparent donation tracking platform engineered during **DevThon 3.0** (University of Moratuwa). 🏆 Most Popular Team |
-| 🚌 **[Safora](https://github.com/sbha4/Safora)** | An Agentic AI-powered public transport safety platform, built in an intensive hackathon sprint. |
+| 🚌 **[Safora](https://github.com/sbha4/Safora)** | AI-assisted transport safety platform featuring agentic AI for route risk prediction, built in an intensive hackathon sprint. |
 | 💰 **[Expense Tracker API](https://github.com/sbha4/node-backend)** | A Node.js REST API built for secure authentication, data validation, and clean backend architecture. |
 
 
