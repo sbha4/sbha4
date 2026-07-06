@@ -23,7 +23,7 @@ This GitHub showcases my hackathon projects, backend APIs, DevOps pipelines, and
 
 | Project | Description |
 |---|---|
-| 🔧 **[DevOps Knowledge Base](https://github.com/sbha4/devops-knowledge-base)** | A deployment pipeline and containerization (Docker, CI/CD, Linux) developed as part of an ongoing IEEE DevOps Mentorship Program. |
+| 🔧 **[DevOps Knowledge Base](https://github.com/sbha4/Automated-Deployment-Observability-of-Web-Applications-on-AWS-ECS)** | A deployment pipeline and containerization (Docker, CI/CD, Linux) developed as part of an ongoing IEEE DevOps Mentorship Program. |
 | 💚 **[KindCents](https://github.com/sbha4/KindCents)** | A transparent donation tracking platform engineered during **DevThon 3.0** (University of Moratuwa). 🏆 Most Popular Team |
 | 🚌 **[Safora](https://github.com/sbha4/Safora)** | AI-assisted transport safety platform featuring agentic AI for route risk prediction, built in an intensive hackathon sprint. |
 | 💰 **[Expense Tracker API](https://github.com/sbha4/node-backend)** | A Node.js REST API built for secure authentication, data validation, and clean backend architecture. |
