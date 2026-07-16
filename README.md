@@ -58,7 +58,7 @@ This GitHub showcases my hackathon projects, backend APIs, DevOps pipelines, and
 ---
 
 ### 🏆 Achievements & Certifications
-- 🎓**Academics** –  3.6+ / 4.0 GPA at Y1S1
+- 🎓**Academics** –  3.6 GPA at Y1S1 and 3.9 at Y1S2
 - 🥇 **DevThon 3.0 Winner** — Most Popular Team for *KindCents*, national hackathon by the University of Moratuwa
 - 🌐 **IEEE Member** — Active participant in ongoing IEEE technical & DevOps mentorship program
 - 🖥️ **SLIIT Bashaway** — 18th place out of 164 teams nationwide (top 20%), shell/bash coding competition
