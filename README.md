@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 
-Recently wrapped up a 3-month full-stack software engineering internship, gaining hands-on experience in:
+Recently wrapped up a 3 month full-stack software engineering internship, gaining experience in:
 
 - 📋 Business analysis & requirements documentation
 - ⚙️ Azure DevOps pipelines & workflows
@@ -58,11 +58,5 @@ This GitHub showcases my hackathon projects, backend APIs, DevOps pipelines, and
 - ✍️ **Monthly Best Blogger**, Mozilla Campus Club at SLIIT (practical engineering articles for student developers)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbha4&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 <p align="center"><i> 🙌 Feel free to explore my repos. Always open to feedback and collaboration.</i></p>
